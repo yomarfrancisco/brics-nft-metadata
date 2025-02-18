@@ -1,0 +1,30 @@
+{
+  "name": "BRICS Certificate",
+  "symbol": "BRICS",
+  "description": "This NFT represents a Certificate of Deposit in the BRICS Treasury System",
+  "image": "https://raw.githubusercontent.com/your-username/brics-nft-metadata/main/brics.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Certificate of Deposit"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Version",
+      "value": "1.0"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/your-username/brics-nft-metadata/main/brics.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
