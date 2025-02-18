@@ -2,7 +2,7 @@
   "name": "BRICS Certificate",
   "symbol": "BRICS",
   "description": "This NFT represents a Certificate of Deposit in the BRICS Treasury System",
-  "image": "https://raw.githubusercontent.com/your-username/brics-nft-metadata/main/brics.png",
+  "image": "https://raw.githubusercontent.com/yomarfrancisco/brics-nft-metadata/main/brics.png",
   "external_url": "",
   "attributes": [
     {
@@ -21,7 +21,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/your-username/brics-nft-metadata/main/brics.png",
+        "uri": "https://raw.githubusercontent.com/yomarfrancisco/brics-nft-metadata/main/brics.png",
         "type": "image/png"
       }
     ],
