@@ -1,0 +1,30 @@
+{
+  "name": "BRICS VIP Certificate",
+  "symbol": "BRICS",
+  "description": "This exclusive certificate grants VIP access to the BRICS Treasury System. Verified on Solana blockchain.",
+  "image": "https://raw.githubusercontent.com/yomarfrancisco/brics-nft-metadata/main/brics-certificate.svg",
+  "external_url": "https://brics.finance",
+  "attributes": [
+    {
+      "trait_type": "Access Level",
+      "value": "VIP"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Certificate"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/yomarfrancisco/brics-nft-metadata/main/brics-certificate.svg",
+        "type": "image/svg+xml"
+      }
+    ],
+    "category": "image"
+  }
+}
